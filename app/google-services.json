@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76952835211",
+    "project_id": "login-example-firestore",
+    "storage_bucket": "login-example-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76952835211:android:03413341ba5a0864a5308e",
+        "android_client_info": {
+          "package_name": "com.appplepie.login_example_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76952835211-2l1gmprtc8fcanke632m00r5tkq0oekp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg7GOrRdeTeifjYaww-xGzT1smTHkCp-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76952835211-2l1gmprtc8fcanke632m00r5tkq0oekp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
